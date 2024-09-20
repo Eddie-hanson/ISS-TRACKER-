@@ -1,0 +1,27 @@
+There are currently 12 astronauts on the ISS:
+
+Oleg Kononenkois on boad the ISS
+
+Nikolai Chubis on boad the ISS
+
+Tracy Caldwell Dysonis on boad the ISS
+
+Matthew Dominickis on boad the ISS
+
+Michael Barrattis on boad the ISS
+
+Jeanette Eppsis on boad the ISS
+
+Alexander Grebenkinis on boad the ISS
+
+Butch Wilmoreis on boad the ISS
+
+Sunita Williamsis on boad the ISS
+
+Li Guangsuis on boad the ISS
+
+Li Congis on boad the ISS
+
+Ye Guangfuis on boad the ISS
+
+Your current lat/long is:[40.7143, -74.006]
